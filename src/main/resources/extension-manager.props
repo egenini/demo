@@ -1,0 +1,3 @@
+[packages]
+comment=paquetes donde se encuentran las clases con la metadata.
+package=com.example.demo.model.metadata
